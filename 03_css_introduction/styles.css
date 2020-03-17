@@ -8,3 +8,6 @@ p {
     color:teal;
   
   }
+  .uppercase {
+    text-transform: uppercase;
+  }
