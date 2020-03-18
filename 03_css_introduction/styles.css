@@ -11,10 +11,13 @@ p {
   .uppercase {
     text-transform: uppercase;
   }
-  #article-title {
+  .cursive {
     font-family: cursive;
-    text-transform: capitalize;
   }
+  
   .publish-time {
     color: gray;
+  }
+  .capitalize {
+    text-transform: capitalize;
   }
