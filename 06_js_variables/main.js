@@ -39,3 +39,6 @@ let lostDollar = 50;
 
 gainedDollar++;
 lostDollar--;
+let favoriteAnimal = "giraffe";
+
+console.log("My favorite animal: " + favoriteAnimal);
